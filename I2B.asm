@@ -1,7 +1,5 @@
 # Mark Mileyev
 # mmileyev@ucsc.edu
-# Lab 5 due Mar 2
-# Section 01C Maxwell
 
 ########## Pseudocode ###########
 # prompt and print arg string
