@@ -1,5 +1,4 @@
 # Mark Mileyev
-# mmileyev@ucsc.edu
 
 ########## Pseudocode ###########
 # prompt and print arg string
